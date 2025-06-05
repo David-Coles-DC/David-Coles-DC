@@ -1,5 +1,4 @@
 - 👋 Hi, I’m David Coles (@David-Coles-DC)
-- 🌱 I’m currently learning 'Full Stack Development for the AI Augmented Developer'
 - 📫 How to reach me: me@davidcoles.uk
 - 😄 Pronouns: he/him
 
